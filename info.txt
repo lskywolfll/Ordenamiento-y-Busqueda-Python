@@ -1,0 +1,9 @@
+
+
+
+Existen diferencias entre la busqueda lineal y/o ordenamiento con la binaria
+
+Por que ?
+
+La lineal en si toma mas tiempo y menos consumo de memoria de computo, en cambio la binaria usa menos tiempo pero usa mucha mas memoria de computo
+
